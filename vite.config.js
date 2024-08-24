@@ -23,5 +23,6 @@ import {
       },
     },
     base: './',
-  
+    base: '/',
+    base: '/stundenplan/'
   })
